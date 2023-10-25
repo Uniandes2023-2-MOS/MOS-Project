@@ -5,6 +5,10 @@
 \documentclass[runningheads]{llncs}
 %
 \usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.17}
+
 %\usepackage{amsmath,amsthm,amsfonts,amssymb,latexsym}
 \usepackage{amsmath,amsfonts,amssymb,latexsym}
 % Used for displaying a sample figure. If possible, figure files should
@@ -45,7 +49,13 @@ En el mundo de las telecomunicaciones mantener conectados a los ususarios en la 
 \\ \\
 A pesar de que intentamos resolver un problema real, debemos tener en cuenta ciertas restricciones para la simplicidad del problema. Primero no tendremos en cuenta ni topologia ni logistica, en el mundo real hay contrucciones en ciertos lugares que no nos dejarian poner las antenas o caracteristicas geograficas que dificultan este proceso, como montañas o tereno inestable. Tambien tendros que ignorar aspectos tecnicos como interferencia de otras antenas. Sin embargo estas omiciones aun nos permiten extraer informacion valiosa para mejorar estos sistemas.
 \\ \\
-\textbf{*OPCIONAL: Agregar una figura que ayude a explicar el problema.}
+\begin{figure}
+	\centering
+	\includegraphics[width=0.3\textwidth]{plot3.png}
+	\caption{Your Image Caption}
+	\label{fig:your-image}
+\end{figure}
+\\
 
 
 
