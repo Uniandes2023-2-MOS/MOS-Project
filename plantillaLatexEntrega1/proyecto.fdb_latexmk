@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1698242264 "/home/spinzon/Documents/Uni/2023-2/MOS/MOS-Project/plantillaLatexEntrega1/proyecto.tex" "proyecto.pdf" "proyecto" 1698242266 0
-  "/home/spinzon/Documents/Uni/2023-2/MOS/MOS-Project/plantillaLatexEntrega1/proyecto.tex" 1698242264 6511 7b48c53cf536b864cf4175f9e1c74550 ""
+["pdflatex"] 1698246997 "/home/spinzon/Documents/Uni/2023-2/MOS/MOS-Project/plantillaLatexEntrega1/proyecto.tex" "proyecto.pdf" "proyecto" 1698246998 0
+  "/home/spinzon/Documents/Uni/2023-2/MOS/MOS-Project/plantillaLatexEntrega1/proyecto.tex" 1698246995 4487 21bcaf21c0a39723337859d0236869e5 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1689853683 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1689853683 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm" 1689853683 996 a18840b13b499c08ac2de96a99eda4bc ""
@@ -20,7 +20,6 @@
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr9.tfm" 1689853683 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1689853683 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm" 1689853683 1116 25a7bf822c58caf309a702ef79f4afbb ""
-  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmti9.tfm" 1689853683 1476 cccc6cc4935c18ec3d5623b77ecb8b74 ""
   "/usr/share/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm" 1689853683 520 82a3d37183f34b6eb363a161dfc002c2 ""
   "/usr/share/texmf-dist/fonts/tfm/public/latex-fonts/lasy5.tfm" 1689853683 520 d082ac03a1087bc1ec2a06e24a9f68c0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm" 1689853683 520 4889cce2180234b97cad636b6039c722 ""
@@ -36,9 +35,7 @@
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb" 1689853683 36094 798f80770b3b148ceedd006d487db67c ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1689853683 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb" 1689853683 33993 9b89b85fd2d9df0482bd47194d1d3bf3 ""
-  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1689853683 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1689853683 32716 08e384dc442464e7285e891af9f45947 ""
-  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb" 1689853683 36310 f5ddc6715cc60deb16d9db5ded6a9391 ""
   "/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1689853683 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex" 1689853683 1016 1c2b89187d12a2768764b83b4945667c ""
   "/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex" 1689853683 43820 1fef971b75380574ab35a0d37fd92608 ""
@@ -175,11 +172,10 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1689853683 40684 9b9ec0b4288972636ff6a3b9c4238efc ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1698075148 4483110 adb1e1d04498b9576f1f17c4219c5e03 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1698075135 6768056 666cbeaaf06f227a11e5ee443b5daff0 ""
-  "figures/network.eps" 1698237690 460802 4eef8e83877eb762d9bbbf42291b85fe ""
   "llncs.cls" 1698237690 43467 a21466011e5ed5d4c3f1d5a9af897395 ""
   "plot3.png" 1698242095 14205 07539ac681d2d21fffd314d42eb4b8cf ""
-  "proyecto.aux" 1698242265 1775 cd929a048536df244ec4d7427b877c67 "pdflatex"
-  "proyecto.tex" 1698242264 6511 7b48c53cf536b864cf4175f9e1c74550 ""
+  "proyecto.aux" 1698246998 1418 9971697ef6b0d1ac2ef853dfe15db986 "pdflatex"
+  "proyecto.tex" 1698246995 4487 21bcaf21c0a39723337859d0236869e5 ""
   (generated)
   "proyecto.aux"
   "proyecto.log"

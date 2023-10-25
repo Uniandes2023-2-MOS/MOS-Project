@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.10.23)  25 OCT 2023 08:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.10.23)  25 OCT 2023 10:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -533,13 +533,11 @@ LaTeX Font Info:    Trying to load font information for U+lasy on input line 40.
  (/usr/share/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Names of authors too long for running head. Please supply
-a shorter form with \authorrunning prior to \maketitle
 <plot3.png, id=4, 176.66pt x 176.66pt>
 File: plot3.png Graphic file (type png)
 <use plot3.png>
 Package pdftex.def Info: plot3.png  used on input line 54.
-(pdftex.def)             Requested size: 104.1381pt x 104.13953pt.
+(pdftex.def)             Requested size: 86.78088pt x 86.78249pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 48--59
 
@@ -554,86 +552,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--59
 Underfull \hbox (badness 10000) in paragraph at lines 48--59
 
  []
-
-Package epstopdf Info: Source file: <./figures/network.eps>
-(epstopdf)                    date: 2023-10-25 07:41:30
-(epstopdf)                    size: 460802 bytes
-(epstopdf)             Output file: <./figures/network-eps-converted-to.pdf>
-(epstopdf)                    date: 2023-10-25 07:41:30
-(epstopdf)                    size: 39950 bytes
-(epstopdf)             Command: <repstopdf --outfile=./figures/network-eps-converted-to.pdf ./figures/network.eps>
-(epstopdf)             \includegraphics on input line 64.
-Package epstopdf Info: Output file is already uptodate.
-<./figures/network-eps-converted-to.pdf, id=6, 198.7425pt x 120.45pt>
-File: ./figures/network-eps-converted-to.pdf Graphic file (type pdf)
-<use ./figures/network-eps-converted-to.pdf>
-Package pdftex.def Info: ./figures/network-eps-converted-to.pdf  used on input line 64.
-(pdftex.def)             Requested size: 158.9942pt x 96.3601pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Overfull \hbox (21.51329pt too wide) in paragraph at lines 72--73
-\OT1/cmr/bx/n/10 *OBLIGATORIO: De-scribir por medio de tablas los con-jun-tos, par^^Sametros
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (8.56335pt too wide) in paragraph at lines 112--117
-\OT1/cmr/bx/n/10 *OBLIGATORIO: Ex-pre-sar matem^^Saticamente la funci^^Son ob-je-tivo (F.O)
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 112--117
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./plot3.png>] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 110--112
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--117
+Underfull \hbox (badness 10000) in paragraph at lines 113--116
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--140
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 133--140
-
- []
-
-[2 <./plot3.png> <./figures/network-eps-converted-to.pdf>]
-Overfull \hbox (57.70062pt too wide) in paragraph at lines 141--142
-[]\OT1/cmr/bx/n/10 Nota: si su proyecto re-quiere plantear varias F.O, de-scrib-alas matem^^Saticamente
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 155--158
+Underfull \hbox (badness 10000) in paragraph at lines 113--116
 
  []
 
 [3] (./proyecto.aux) ) 
 Here is how much of TeX's memory you used:
- 23535 strings out of 477985
- 606817 string characters out of 5840057
- 1859388 words of memory out of 5000000
- 43358 multiletter control sequences out of 15000+600000
- 519789 words of font info for 64 fonts, out of 8000000 for 9000
+ 23520 strings out of 477985
+ 606487 string characters out of 5840057
+ 1855388 words of memory out of 5000000
+ 43347 multiletter control sequences out of 15000+600000
+ 519444 words of font info for 63 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  84i,10n,89p,803b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on proyecto.pdf (3 pages, 207019 bytes).
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on proyecto.pdf (3 pages, 141491 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 53 compressed objects within 1 object stream
+ 75 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
